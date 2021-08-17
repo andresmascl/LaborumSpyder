@@ -1,6 +1,6 @@
 # LaborumSpyder
 
-This is one of the few projects I am able to share publicly, since the majority of my projects are either too specific (to the point where it wouldn't make sence to share them) or deal with sensitive information for the client.
+This is one of the few projects I am able to share publicly, since the majority of them are either too specific (to the point where it wouldn't make sence to share them) or deal with sensitive information for the client.
 
 This Jupyter Notebook was written in order to determine the correlation between keywords (of technologies) and occupations being demanded in the chilean labor market, based on information scraped from the job board site laborum.com.
 
